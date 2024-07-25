@@ -28,3 +28,5 @@ Create an interactive to-do list application using Atomic Design and TypeScript 
 ## Tests
 
 - Run the tests with `npm test`.
+
+<img width="532" alt="image" src="https://github.com/user-attachments/assets/3d4416ce-1466-46ac-a0b8-2c900a4bd503">
